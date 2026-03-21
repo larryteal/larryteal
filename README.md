@@ -91,22 +91,6 @@ currently_building: AI Agent Frameworks & Protocols
   </tr>
 </table>
 
-<!-- GITHUB STATS -->
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=larryteal&show_icons=true&theme=react&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larryteal&layout=compact&theme=react&hide_border=true&border_radius=10&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=larryteal&theme=react&hide_border=true&border_radius=10" height="170" />
-</div>
-
 <!-- CONTRIBUTION SNAKE -->
 
 <h2>🐍 Contribution Graph</h2>
