@@ -55,55 +55,39 @@ currently_building: AI Agent Frameworks & Protocols
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">mcp-workspace</h3>
-      <p align="center">
-        <a href="https://github.com/larryteal/mcp-workspace">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=mcp-workspace&theme=react&hide_border=true&border_radius=10" alt="mcp-workspace" />
-        </a>
-      </p>
-      <p align="center"><em>Convert any REST API into a Model Context Protocol (MCP) service</em></p>
+      <a href="https://github.com/larryteal/mcp-workspace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=mcp-workspace&theme=react&hide_border=true&border_radius=10" alt="mcp-workspace" />
+      </a>
     </td>
     <td width="50%">
-      <h3 align="center">BranchLayerFlow</h3>
-      <p align="center">
-        <a href="https://github.com/larryteal/BranchLayerFlow">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=BranchLayerFlow&theme=react&hide_border=true&border_radius=10" alt="BranchLayerFlow" />
-        </a>
-      </p>
-      <p align="center"><em>Lightweight multi-agent orchestration framework</em></p>
+      <a href="https://github.com/larryteal/BranchLayerFlow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=BranchLayerFlow&theme=react&hide_border=true&border_radius=10" alt="BranchLayerFlow" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">githubtrending</h3>
-      <p align="center">
-        <a href="https://github.com/larryteal/githubtrending">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=githubtrending&theme=react&hide_border=true&border_radius=10" alt="githubtrending" />
-        </a>
-      </p>
-      <p align="center"><em>Real-time GitHub Trending API in JSON format</em></p>
+      <a href="https://github.com/larryteal/githubtrending">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=githubtrending&theme=react&hide_border=true&border_radius=10" alt="githubtrending" />
+      </a>
     </td>
     <td width="50%">
-      <h3 align="center">turtle-soup</h3>
-      <p align="center">
-        <a href="https://github.com/larryteal/turtle-soup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=turtle-soup&theme=react&hide_border=true&border_radius=10" alt="turtle-soup" />
-        </a>
-      </p>
-      <p align="center"><em>Multi-agent reasoning game (海龟汤推理游戏)</em></p>
+      <a href="https://github.com/larryteal/turtle-soup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=turtle-soup&theme=react&hide_border=true&border_radius=10" alt="turtle-soup" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">jod</h3>
-      <p align="center">
-        <a href="https://github.com/larryteal/jod">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=jod&theme=react&hide_border=true&border_radius=10" alt="jod" />
-        </a>
-      </p>
-      <p align="center"><em>JSON Object Diff</em></p>
+      <a href="https://github.com/larryteal/jod">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=jod&theme=react&hide_border=true&border_radius=10" alt="jod" />
+      </a>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <a href="https://github.com/larryteal/web-search">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=web-search&theme=react&hide_border=true&border_radius=10" alt="web-search" />
+      </a>
+    </td>
   </tr>
 </table>
 
