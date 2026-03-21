@@ -44,7 +44,7 @@ currently_building: AI Agent Frameworks & Protocols
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><sub>VS Code</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/d97757" width="48" height="48" alt="Claude Code" /><br><sub>Claude Code</sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="AI" /><br><sub>AI</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangGraph" /><br><sub>LangGraph</sub></td>
   </tr>
 </table>
 
