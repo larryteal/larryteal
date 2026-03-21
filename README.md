@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast;MCP+%C2%B7+AI+Agents+%C2%B7+Developer+Tools)](https://github.com/larryteal)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=45&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast;MCP+%C2%B7+AI+Agents+%C2%B7+Developer+Tools)](https://github.com/larryteal)
 
 </div>
 
