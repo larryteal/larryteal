@@ -31,7 +31,9 @@ currently_building: AI Agent Frameworks & Protocols
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub>TypeScript</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub>Python</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br><sub>Go</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br><sub>Rust</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br><sub>Vue</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub>React</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub>Node.js</sub></td>
   </tr>
   <tr>
@@ -41,6 +43,8 @@ currently_building: AI Agent Frameworks & Protocols
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><sub>GitHub</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><sub>VS Code</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/d97757" width="48" height="48" alt="Claude Code" /><br><sub>Claude Code</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="AI" /><br><sub>AI</sub></td>
   </tr>
 </table>
 
