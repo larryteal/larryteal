@@ -1,66 +1,134 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Larry&fontSize=42&fontColor=58a6ff&fontAlignY=35&animation=fadeIn" />
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/larryteal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Tools+with+AI" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Larry&fontSize=36&fontColor=fff&fontAlignY=35&animation=twinkling&desc=Building%20tools%20that%20make%20developers'%20lives%20easier&descSize=16&descColor=fff&descAlignY=55" width="100%" />
 
----
+<br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast;MCP+%C2%B7+AI+Agents+%C2%B7+Developer+Tools)](https://github.com/larryteal)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,vue,docker,nodejs,git,github,linux,vscode&theme=dark&perline=6" />
-  </a>
-</p>
+</div>
 
----
+<!-- ABOUT ME -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+```yaml
+name: Larry
+located_in: Earth
+focus:
+  - MCP (Model Context Protocol) Services
+  - AI Agent Frameworks
+  - Developer Tools & APIs
+languages: ["JavaScript", "TypeScript", "Python", "Go"]
+currently_building: mcp-workspace
+```
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=larryteal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=larryteal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</p>
+<!-- TECH STACK -->
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larryteal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</p>
+<h2>⚡ Tech Stack</h2>
 
----
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br><sub>Go</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br><sub>Vue</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub>Node.js</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub>Docker</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><sub>Linux</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><sub>GitHub</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><sub>VS Code</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
+  </tr>
+</table>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- FEATURED PROJECTS -->
 
-<p align="center">
-  <a href="https://github.com/larryteal/mcp-workspace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=mcp-workspace&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/larryteal/jod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=jod&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/larryteal/githubtrending">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=githubtrending&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/larryteal/BranchLayerFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=BranchLayerFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/larryteal/turtle-soup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=turtle-soup&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-</p>
+<h2>🚀 Featured Projects</h2>
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">mcp-workspace</h3>
+      <p align="center">
+        <a href="https://github.com/larryteal/mcp-workspace">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=mcp-workspace&theme=react&hide_border=true&border_radius=10" alt="mcp-workspace" />
+        </a>
+      </p>
+      <p align="center"><em>Convert any REST API into a Model Context Protocol (MCP) service</em></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">BranchLayerFlow</h3>
+      <p align="center">
+        <a href="https://github.com/larryteal/BranchLayerFlow">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=BranchLayerFlow&theme=react&hide_border=true&border_radius=10" alt="BranchLayerFlow" />
+        </a>
+      </p>
+      <p align="center"><em>Lightweight multi-agent orchestration framework</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">githubtrending</h3>
+      <p align="center">
+        <a href="https://github.com/larryteal/githubtrending">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=githubtrending&theme=react&hide_border=true&border_radius=10" alt="githubtrending" />
+        </a>
+      </p>
+      <p align="center"><em>Real-time GitHub Trending API in JSON format</em></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">turtle-soup</h3>
+      <p align="center">
+        <a href="https://github.com/larryteal/turtle-soup">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=turtle-soup&theme=react&hide_border=true&border_radius=10" alt="turtle-soup" />
+        </a>
+      </p>
+      <p align="center"><em>Multi-agent reasoning game (海龟汤推理游戏)</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">jod</h3>
+      <p align="center">
+        <a href="https://github.com/larryteal/jod">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=larryteal&repo=jod&theme=react&hide_border=true&border_radius=10" alt="jod" />
+        </a>
+      </p>
+      <p align="center"><em>JSON Object Diff</em></p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- GITHUB STATS -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larryteal/larryteal/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larryteal/larryteal/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/larryteal/larryteal/output/github-snake-dark.svg" />
-  </picture>
-</p>
+<h2>📊 GitHub Stats</h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=120&section=footer" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=larryteal&show_icons=true&theme=react&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larryteal&layout=compact&theme=react&hide_border=true&border_radius=10&langs_count=8" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=larryteal&theme=react&hide_border=true&border_radius=10" height="170" />
+</div>
+
+<!-- CONTRIBUTION SNAKE -->
+
+<h2>🐍 Contribution Graph</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larryteal/larryteal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larryteal/larryteal/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/larryteal/larryteal/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<!-- FOOTER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
