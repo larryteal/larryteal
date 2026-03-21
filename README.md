@@ -18,7 +18,7 @@ focus:
   - AI Agent Frameworks
   - Developer Tools & APIs
 languages: ["JavaScript", "TypeScript", "Python", "Go"]
-currently_building: mcp-workspace
+currently_building: AI Agent Frameworks & Protocols
 ```
 
 <!-- TECH STACK -->
